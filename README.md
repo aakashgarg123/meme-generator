@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  A simple Meme Generator built using ImgFlip api and React <3
  
  ![Screenshot](devs.png)
+ 
+ To This:
+ ![Screenshot](devs1.png)
 ## Available Scripts
 
 In the project directory, you can run:
