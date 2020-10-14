@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
  A simple Meme Generator built using ImgFlip api and React <3
+ 
+ ![Screenshot](devs.png)
 ## Available Scripts
 
 In the project directory, you can run:
